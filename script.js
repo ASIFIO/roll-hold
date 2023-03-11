@@ -26,7 +26,7 @@ let isPlaying = true;
 
 //Players Name Input
 const player1Name = prompt("Player 1 name")
-const player2Name = prompt("Player 1 name")
+const player2Name = prompt("Player 2 name")
 
 document.getElementById('name--0').innerText = player1Name
 document.getElementById('name--1').innerText = player2Name
